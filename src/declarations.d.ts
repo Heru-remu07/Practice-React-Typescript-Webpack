@@ -1,0 +1,2 @@
+declare module '*.png'  // need to declare this in order for the typescript to recognize this filetype
+declare module '*.svg'  // need to declare this in order for the typescript to recognize this filetype
